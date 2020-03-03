@@ -1,4 +1,4 @@
 Tutor-web notes
 ***************
 
-* `crypto251.0 </crypto2510>`__
+* `crypto251.0 </projects/crypto2510/>`__
